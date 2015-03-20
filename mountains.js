@@ -1,11 +1,12 @@
 var MOUNTAINS = [
-  {name: "Kilimanjaro", height: 5895, country: "Tanzania"},
-  {name: "Everest", height: 8848, country: "Nepal"},
-  {name: "Mount Fuji", height: 3776, country: "Japan"},
-  {name: "Mont Blanc", height: 4808, country: "Italy/France"},
-  {name: "Vaalserberg", height: 323, country: "Netherlands"},
-  {name: "Denali", height: 6168, country: "United States"},
-  {name: "Popocatepetl", height: 5465, country: "Mexico"}
+  {name: "Nevado Sajama", height: 6542, country: "Bolivia", date: "1939"},
+  {name: "Pico da Neblina", height: 2994, country: "Brazil", date: "1965"},
+  {name: "Pico Cristobal Colon", height: 5775, country: "Colombia", date: "1939"},
+  {name: "Chimborazo", height: 6267, country: "Ecuador", date: "1880"},
+  {name: "Pico Bolivar", height: 4981, country: "Venezuela", date: "1935"},
+  {name: "Mount Roraima", height: 2739, country: "Guyana", date: "1884"},
+  {name: "Cotopaxi", height: 5897, country: "Ecuador", date: "1872"},
+  {name: "Huascaran", height: 6768, country: "Peru", date: "1932" },
 ];
 
 if (typeof module != "undefined" && module.exports)
