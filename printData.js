@@ -1,3 +1,6 @@
+/*
+ * Connor Ring
+ */
 load('calcFuncs.js');
 load('drawFuncs.js');
 load('TextCell.js');
